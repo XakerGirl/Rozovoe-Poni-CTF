@@ -24,5 +24,5 @@ rozovoeponictf/
             \_ exp.py (эксплоит на задание)
 
 
-LinkedIN: https://www.linkedin.com/in/uliana-karaulova-b72734241/
+[First story](https://medium.com/@special_gerl771/analysis-of-destructive-malware-whispergate-targeting-ukraine-e2c72676199f)
 ```
